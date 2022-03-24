@@ -15,3 +15,4 @@ I will not be accepting pull requests.
 ## Acknowledgements
 * Bootstrap
 * freeCodeCamp
+* [ColorPalettes.net](https://colorpalettes.net/color-palette-348/)

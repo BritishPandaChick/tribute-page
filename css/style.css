@@ -1,16 +1,42 @@
-/* Basic Styles */
-h1, h2, h3 {
-    font-family: 'Dancing Script', cursive;
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #333;
 }
 
-p {
+/* == Header == */
+header {
+    background-color: #161e4c;
+    color: #ffffff;
+    padding: 40px;
+}
+
+#title {
+    font-family: 'Dancing Script', cursive;
+    font-size: 55px;
+}
+
+header h3 {
+    font-size: 30px;
+    line-height: 32px;
+}
+
+/* === Main === */
+#main {
+    padding: 40px 0;
+}
+
+#img-caption {
     font-size: 16px;
 }
 
-ul li {
-    font-size: 20px;
+/* == Footer == */
+footer {
+    background-color: #161e4c;
+    color: #ffffff;
+    padding: 15px 0;
 }
 
-img {
-    display: block;
+footer p {
+    font-size: 16px;
 }
