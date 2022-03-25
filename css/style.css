@@ -4,6 +4,19 @@ body {
     color: #333;
 }
 
+h2 {
+    font-size: 35px;
+    font-family: 'Dancing Script', cursive;
+}
+
+a {
+    color: #161e4c;
+}
+
+a:hover {
+    color: #ad102d;
+}
+
 /* == Header == */
 header {
     background-color: #161e4c;
@@ -23,7 +36,7 @@ header h3 {
 
 /* === Main === */
 #main {
-    padding: 40px 0;
+    padding: 50px 0;
 }
 
 #img-caption {
