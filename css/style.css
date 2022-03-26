@@ -43,6 +43,10 @@ header h3 {
     font-size: 16px;
 }
 
+#honors {
+    padding: 40px 0;
+}
+
 /* == Footer == */
 footer {
     background-color: #161e4c;
