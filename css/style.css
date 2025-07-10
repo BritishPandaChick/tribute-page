@@ -47,6 +47,20 @@ header h3 {
     font-size: 16px;
 }
 
+#tribute-info {
+    line-height: 32px;
+}
+
+#honors {
+    padding: 40px 0;
+}
+
+#timeline {
+    border: 2px solid #ad102d;
+    padding: 40px;
+    line-height: 32px;
+}
+
 /* == Footer == */
 footer {
     background-color: #161e4c;
