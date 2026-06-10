@@ -1,18 +1,16 @@
-# Duchess of Cambridge Tribute Page
-freeCodeCamp Responsive Web Design project. Tribute page.
+# Tribute Page
+freeCodeCamp tribute page for the the responsive web design certification
 
-## Dependencies
+## Tech Stack
 - HTML
 - CSS
 - Bootstrap
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-I will not be accepting pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
 
 ## Acknowledgements
 * Bootstrap
-* freeCodeCamp
+* freecodecamp
 * [ColorPalettes.net](https://colorpalettes.net/color-palette-348/)
